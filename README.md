@@ -67,10 +67,15 @@ Personal portfolio showcasing my skills and projects.
 I help businesses with:
 
 Website Development
+
 IT Support
+
 Network Troubleshooting
+
 Cybersecurity Best Practices
+
 Network Documentation
+
 Python Automation
 
 ---
