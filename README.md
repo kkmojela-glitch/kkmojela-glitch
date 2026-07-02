@@ -64,13 +64,14 @@ Personal portfolio showcasing my skills and projects.
 
 ## Career Goals
 
-I am seeking opportunities in:
+I help businesses with:
 
-- IT Support
-- Network Administration
-- NOC Operations
-- Cybersecurity
-- Junior IT Technician Roles
+Website Development
+IT Support
+Network Troubleshooting
+Cybersecurity Best Practices
+Network Documentation
+Python Automation
 
 ---
 
